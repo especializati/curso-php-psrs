@@ -1,0 +1,13 @@
+{
+    "name": "eti/test-monolog",
+    "description": "Aula Sobre PSR-3",
+    "authors": [
+        {
+            "name": "Carlos Ferreira",
+            "email": "carlos@especializati.com.br"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
+}

@@ -1,0 +1,4 @@
+[2017-07-20 23:07:51] Nome do Log.WARNING: Foo [] []
+[2017-07-20 23:07:51] Nome do Log.ERROR: Bar [] []
+[2017-07-20 23:08:46] Nome do Log.WARNING: Foo [1,2,3,4] []
+[2017-07-20 23:08:46] Nome do Log.ERROR: Bar ["carlos","ferreira","especializati"] []

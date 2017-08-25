@@ -1,0 +1,17 @@
+{
+    "name": "eti/psr4-aula",
+    "description": "Aula Sobre PSR-4",
+    "authors": [
+        {
+            "name": "Carlos Ferreira",
+            "email": "carlos@especializati.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "ETI\\": "src/eti"
+        }
+    }
+}
